@@ -1,0 +1,28 @@
+{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    height: 150px;
+    background-color:white;
+}
+body{
+    background-image:url("3.png");
+    background-size:cover;
+}
+.Name3 h1{
+    margin-left:20%;
+    text-align:auto;
+    color:black;
+    font-family:calibri;
+    padding-top:25px;
+    font-size:75px}
+
+.pic3 img{
+    height:1000px;
+    width:1000px;
+    margin-top:80px;
+    margin-left:300px;
+    margin-right:100px;
+  
+}

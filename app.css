@@ -1,0 +1,57 @@
+{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    height: 250px;
+    background-color:darkgrey;
+}
+body{
+    background-image:url("i5.jpg");
+    background-size:cover;
+}
+.Name h1{
+    margin-left:44%;
+    text-align:auto;
+    color:black;
+    font-family:calibri;
+    padding-top:70px;
+    font-size:78px;
+}
+ul li{
+    display:inline-block;
+    margin-top:1px;
+    margin-left:250px;
+}
+ul li a{
+    text-decoration:none;
+    color:blue;
+    padding:8px 44px;
+    border:1px solid black;
+    transition:0.6s;
+    font-style:bold;
+}
+ul li a:hover{
+    background-color:black;
+    color:grey;
+}
+.content{
+    color:red;
+    margin-top:30px;
+    margin-right:100px;
+    font-family:cursive;
+    font-style:bold;
+    text-align:center;
+    font-size:25px;
+    margin-left:40px;
+}
+.quote{
+    color:blue;
+    margin-top:80px;
+    margin-right:150px;
+    margin-left:100px;
+    font-family:'Times New Roman', Times, serif;
+    font-style:bold;
+    text-align:center;
+    font-size:20px;
+}

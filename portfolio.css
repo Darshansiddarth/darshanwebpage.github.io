@@ -1,0 +1,57 @@
+{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    height: 150px;
+    background-color:olive;
+}
+body{
+    background-image:url("i4.jpg");
+    
+}
+.Name2 h1{
+    margin-left:30%;
+    text-align:auto;
+    color:black;
+    font-family:calibri;
+    padding-top:35px;
+    font-size:75px;
+}
+
+.pic img{
+    height:500px;
+    width: 1000px;
+    margin-top:80px;
+    margin-left:300px;
+    margin-right:100px;
+  
+}
+.desc{
+    margin-left:1%;
+    text-align:center;
+    color:orangered;
+    font-family:georgia;
+    font-style:italic;
+    padding-top:20px;
+    font-size:25px;
+   
+}
+.pic2 img{
+    height:500px;
+    width:1000px;
+    margin-top:80px;
+    margin-left:300px;
+    margin-right:100px;
+  
+}
+.desc2{
+    color:orangered;
+    padding-top:20px;
+    margin-right:150px;
+    margin-left:200px;
+    font-family:georgia;
+    font-style:italic;
+    text-align:center;
+    font-size:25px;
+}

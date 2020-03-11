@@ -1,0 +1,51 @@
+{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    height: 120px;
+    background-color:darkgrey;
+}
+body{
+    background-image:url("i3.jpg");
+    background-size:cover;
+}
+.Name h1{
+    margin-left:41%;
+    text-align:auto;
+    color:black;
+    font-family:calibri;
+    padding-top:20px;
+    font-size:75px;
+}
+    .content{
+        color:orangered;
+        margin-top:30px;
+        margin-right:5px;
+        font-family:cursive;
+        font-style:cursive;
+        text-align:auto;
+        font-size:25px;
+        margin-left:45px;
+    }
+    .skills{
+        color:red;
+        margin-top:30px;
+        margin-right:5px;
+        font-family:Franklin Gothic Medium;
+        font-style:cursive;
+        text-align:auto;
+        font-size:35px;
+        margin-left:45px;
+      
+    }
+    .find{
+        color:gainsboro;
+        margin-top:30px;
+        margin-right:5px;
+        font-family:tahoma;
+        font-style:cursive;
+        text-align:auto;
+        font-size:60px;
+        margin-left:45px;
+    }
